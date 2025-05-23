@@ -1,4 +1,4 @@
-# Laboratio 03 - Alineamiento Local
+# Alineamiento Local
 
 De Braulio Nayap Maldonado Casilla
 
